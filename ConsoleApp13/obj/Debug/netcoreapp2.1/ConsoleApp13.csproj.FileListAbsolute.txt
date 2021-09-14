@@ -1,0 +1,11 @@
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.deps.json
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.runtimeconfig.json
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.dll
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.pdb
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.dll
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.pdb
+C:\Users\aluno1\Desktop\C#\ConsoleApp1\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.csprojAssemblyReference.cache
